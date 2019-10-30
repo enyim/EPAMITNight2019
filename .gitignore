@@ -1,0 +1,12 @@
+enyim.snk
+*.user
+*.suo
+*.apikey
+.vs/
+bin/
+obj/
+TestResults/
+out/
+coverage.json
+*.cmd
+results/
