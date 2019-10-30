@@ -1,0 +1,8 @@
+- https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/
+- https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/
+- https://channel9.msdn.com/Events/Connect/2017/T125
+- https://msdn.microsoft.com/en-us/magazine/mt814808.aspx- 
+- https://blogs.msdn.microsoft.com/mazhou/2018/03/02/c-7-series-part-9-ref-structs/
+- https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/
+- https://db.in.tum.de/~finis/x86-intrin-cheatsheet-v2.2.pdf?lang=en
+- https://mijailovic.net/2018/07/05/generated-code/
